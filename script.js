@@ -14,7 +14,7 @@ let b = ob2.areaOf()
 console.log(b);
 let ob3 = new Circle(15)
 let c = ob3.areaOf()
-console.log(ob3);
+console.log(c);
 
 let x= 2+5
 console.log(x)
@@ -39,16 +39,3 @@ console.log(ny)
 
 
 
-let money = 3000
-let traffic= 500
-if(money>=2000 && traffic<=500)
-{
-        console.log("go on a car")
-}else if (money<2000 && traffic>500)
-{
-    console.log("go on bike")
-}else if (money>=2000 && traffic > 500){
-    console.log("go on a bike")
-}else {
-    console.log("go on a bike")
-}

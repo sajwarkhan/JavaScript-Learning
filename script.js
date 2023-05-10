@@ -52,4 +52,3 @@ if(money>=2000 && traffic<=500)
 }else {
     console.log("go on a bike")
 }
-jkfsdfsss

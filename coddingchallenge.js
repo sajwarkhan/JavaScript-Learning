@@ -1,4 +1,4 @@
------------------------------------
+// -----------------------------------
 /* New Lecture
 
 // let js='amazing';
@@ -122,4 +122,54 @@
 
 // else if (dolphinsScoreAvg==koalasScoreAvg)
 //   console.log('the match is draw');
+
+
+
+// let day=  'thursday';
+
+
+// switch (day){
+// case 'monday':
+// console.log('plan course structure');
+// console.log('go to codding meetup');
+// break;
+
+// case 'tuesday' && 'wednesday':
+// console.log('plan home structure');
+// break;
+
+// case 'thursday':
+// console.log('plan news structure');
+//  break;
+// case'friday':
+// console.log('plan work structure');
+// break;
+
+// case 'saturday':
+// console.log('plan game structure');
+// break;
+
+// case 'sunday':
+// console.log('plan study structure');
+// break;
+// }
+
+// ------------------------------------------
+
+// Codding challenge 4
+
+let bill= 430; //can 430, and 40 in challenge
+
+ const tip = bill >=50 && bill <=300 ? bill*(15/100):bill*(20/100);
+console.log( `the bill was ${bill}, and tip is ${tip} so now thee total bill is ${bill+tip}`)
+
+
+
+
+//  let bill =275;
+//  if (bill>=50 && bill<=100)
+//  console.log(bill*(15/100));
+// else{
+//   console.log(bill)
+// }
 

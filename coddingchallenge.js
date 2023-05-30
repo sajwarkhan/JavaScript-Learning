@@ -166,7 +166,7 @@ console.log( `the bill was ${bill}, and tip is ${tip} so now thee total bill is 
 
 
 
- let bill =275;
+//  let bill =275;
  if (bill>=50 && bill<=100)
  console.log(bill*(15/100));
 else{

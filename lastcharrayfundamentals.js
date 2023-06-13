@@ -32,6 +32,8 @@ const calcTip = function (bill) {
   
   }
   console.log (calcAvg(totals))
+  console.log (calcAvg(tips))
+  console.log (calcAvg([2,2,2]))
     
     
 
